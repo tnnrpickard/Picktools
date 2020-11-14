@@ -1,0 +1,24 @@
+{
+    "id": "3A690684",
+    "path": "~/Personal Stats/PickTools/R/flattenList.R",
+    "project_path": "R/flattenList.R",
+    "type": "r_source",
+    "hash": "1591855334",
+    "contents": "",
+    "dirty": false,
+    "created": 1605334767440.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "1,48",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1605335441,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1605335441282,
+    "read_only": false,
+    "read_only_alternatives": []
+}
